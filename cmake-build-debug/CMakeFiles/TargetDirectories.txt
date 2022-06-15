@@ -1,0 +1,4 @@
+/Users/xvddm/Documents/Programowanie/TicTacToe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xvddm/Documents/Programowanie/TicTacToe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xvddm/Documents/Programowanie/TicTacToe/cmake-build-debug/CMakeFiles/TicTacToe_lib.dir
+/Users/xvddm/Documents/Programowanie/TicTacToe/cmake-build-debug/CMakeFiles/TicTacToe_run.dir
